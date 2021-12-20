@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d9fe0"],{"6a65":function(e){e.exports=JSON.parse('{"dataPositiveNegativeChart":{"negative":[145459,1049667,13053,229456,35635,37968,27936,73018,33659,119407,45824,44862,224171,33918,58184,43650],"positive":[5289,113206,883,26820,3846,4345,2532,9314,4353,14205,5271,4474,20600,4509,6941,5918]},"updatedOn":"20/12/2021, 13:45"}')}}]);
+//# sourceMappingURL=chunk-2d0d9fe0.51fe4ae6.js.map

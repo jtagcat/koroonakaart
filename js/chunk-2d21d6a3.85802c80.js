@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21d6a3"],{d0cd:function(d){d.exports=JSON.parse('{"dataTestsPopRatio":[1871.08,947.93,1997.63,1352.23,1439.98,1238.51,1582.35,1766.14,1648.2,1583.74,1352.36,1343.62,1598.71,1503.65,1671.04],"updatedOn":"20/12/2021, 13:43"}')}}]);
+//# sourceMappingURL=chunk-2d21d6a3.85802c80.js.map
